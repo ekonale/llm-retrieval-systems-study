@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+rank-bm25
+jupyter
